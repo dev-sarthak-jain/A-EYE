@@ -1,0 +1,1 @@
+The overall project aims to develop smart glasses specifically designed to assist visually impaired individuals in navigating their surroundings. It addresses the challenges faced by the visually impaired community by incorporating cutting-edge technologies.
